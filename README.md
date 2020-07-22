@@ -13,10 +13,6 @@
  🤔 I’m looking for help with Flutter.
  
  💬 Ask me about Fullstack Development and Tech-related stuff.
- 
-<!-- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/sourav-dey/"><img  src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/linkedInlogo.png" width="20px" title="LinkedIn" alt="LinkedIn"></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
 ### You can find in me in the web 🌍: 
  <a target="_blank" href="https://www.linkedin.com/in/sourav-dey/"><img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Linkedin.png" width="25px" title="LinkedIn" alt="LinkedIn"></a>

@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Experienced Full-stack Mobile and Web Developer.
+
  🔭 I’m currently working on a Project **Vision: ML based System for Blinds**.
  
  🌱 I’m currently learning Google Cloud Platform and Flutter.

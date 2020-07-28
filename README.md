@@ -21,6 +21,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 - ⚡ Fun fact: ...-->
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" /> [<img src="https://img.shields.io/badge/linkedin-follow-red" style=" float:left, margin-right:10px" />](https://www.linkedin.com/in/Sourav-dey)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Souravdey777)](https://github.com/Souravdey777/Souravdey777)
 
 ### You can find in me in the web 🌍: 
  <a target="_blank" href="https://www.linkedin.com/in/sourav-dey/"><img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Linkedin.png" width="25px" title="LinkedIn" alt="LinkedIn"></a>

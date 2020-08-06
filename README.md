@@ -1,4 +1,6 @@
-## Hey Sourav here 👋
+### Hey Sourav here 👋
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
@@ -15,14 +17,24 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
  🤔 I’m looking for help with Flutter.
  
  💬 Ask me about Fullstack Development and Tech-related stuff.
- 
-<!-- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/sourav-dey/"><img  src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/linkedInlogo.png" width="20px" title="LinkedIn" alt="LinkedIn"></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" /> [<img src="https://img.shields.io/badge/linkedin-follow-red" style=" float:left, margin-right:10px" />](https://www.linkedin.com/in/Sourav-dey)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+
+### Connect with me:
+
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+---
 
 ### You can find in me in the web 🌍: 
  <a target="_blank" href="https://www.linkedin.com/in/sourav-dey/"><img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Linkedin.png" width="25px" title="LinkedIn" alt="LinkedIn"></a>
@@ -33,3 +45,9 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
+
+[website]: https://souravdey777.github.io/Portfolio/
+[twitter]: https://twitter.com/Souravdey777
+[youtube]: https://youtube.com/
+[instagram]: https://www.instagram.com/souravdey777/
+[linkedin]: https://www.linkedin.com/in/sourav-dey/

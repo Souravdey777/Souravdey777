@@ -27,8 +27,8 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 ---
 
-
 ### You can find in me in the web 🌍: 
+
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Souarvdey777" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -36,6 +36,9 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/>
+
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 

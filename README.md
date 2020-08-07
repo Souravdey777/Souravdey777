@@ -16,7 +16,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
  
  🤔 I’m looking for help with Flutter.
  
- 💬 Ask me about Fullstack Development and Tech-related stuff.
+ 💬 Ask me about Fullstack Development, Cloud and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />

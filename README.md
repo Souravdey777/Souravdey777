@@ -46,7 +46,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://souravdey777.github.io/
 [twitter]: https://twitter.com/Souravdey777
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/

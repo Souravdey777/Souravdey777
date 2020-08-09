@@ -8,15 +8,15 @@
 
 Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Experienced Full-stack Mobile and Web Developer.
 
- 🔭 I’m currently working on a Project **Vision: ML based System for Blinds**.
+ 🔭 I’m currently working on a Project **Vision: ML-based System for Blinds**.
  
  🌱 I’m currently learning Google Cloud Platform and Flutter.
  
- 👯 I’m looking to collaborate for a Flutter and ML based project **Doc App**.
+ 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
  🤔 I’m looking for help with Flutter.
  
- 💬 Ask me about Fullstack Development, Cloud and any Tech-related stuff.
+ 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
@@ -46,7 +46,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-[website]: https://souravdey777.github.io/
+[website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/

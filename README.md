@@ -21,9 +21,12 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
+
 ---
 
+
 ### Tech Preference
+
 
 <img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,7 +44,8 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 ---
 
@@ -51,6 +55,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 
 ### You can find in me in the web 🌍
+
 
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]

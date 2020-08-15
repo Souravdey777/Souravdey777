@@ -62,7 +62,11 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 
 ---
+### You can checkout few of my blogs too 
 
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal)](https://medium.com/@Souravdey777)
+
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 

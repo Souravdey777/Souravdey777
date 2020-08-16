@@ -49,6 +49,8 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
+[Sourcerer](https://sourcerer.io/souravdey777)
+
 ---
 
 
@@ -67,7 +69,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-[sourcerer](https://sourcerer.io/souravdey777) 
+[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 

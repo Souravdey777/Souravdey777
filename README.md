@@ -6,15 +6,19 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Experienced Full-stack Mobile and Web Developer.
+Software Developer based in Bangalore, India. ML and Cloud Enthusiast and a Full-stack Mobile and Web Developer.
 
  🔭 I’m currently working on a Project **Vision: ML-based System for Blinds**.
  
- 🌱 I’m currently learning Google Cloud Platform and <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> .
+ 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 
+ 🌱 I’m currently learning Google Cloud Platform
+ 
+ 🌱 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">.
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with Flutter.
+ 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
@@ -41,6 +45,9 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
@@ -49,7 +56,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-[Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats :piont_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 

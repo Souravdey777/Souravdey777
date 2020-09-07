@@ -6,8 +6,11 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 😉
- 
+I am a 👨‍💻 **Full-stack Mobile and Web Developer** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about ML. 😉
+
+
+🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+
  🔭 I’m planning for a Project **🧐 Vision: ML-based System for Blinds**.
  
  🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> 
@@ -71,11 +74,11 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 
 
 ---
-### You can checkout my blogs 📢
+### You can check out my blogs 📢
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+[Add your blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 

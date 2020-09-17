@@ -11,14 +11,16 @@ I am a 👨‍💻 **Full-stack Mobile and Web Developer** who is exploring Clou
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
- 🔭 I’m planning for a Project **🧐 Vision: ML-based System for Blinds**.
+ 👨‍💻 I'm currently working on 👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy).
+
+ 🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**.
  
  🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> 
 
  📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
+ 👯 I’m looking to collaborate and contribute to Developer Communities.
+
  🤔 I’m looking for help with [**Github Blog Cards**](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff. [**Mentor @Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey)

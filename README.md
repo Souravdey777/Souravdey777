@@ -19,7 +19,7 @@ I am a 👨‍💻 **Full-stack Mobile and Web Developer** who is exploring Clou
 
  📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for [**Devpost Hackathons**](https://devpost.com/Souravdey777)
+ 👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
 
  🤔 I’m looking for help with [**Github Blog Cards**](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
@@ -71,6 +71,7 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/speakerdeck.svg" />][speakerdeck]
 
 <br/>
 
@@ -93,4 +94,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[medium]: https://medium.com/@Souravdey777
+[speakerdeck]: https://speakerdeck.com/@Souravdey777

@@ -6,8 +6,9 @@
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a 👨‍💻 **Full-stack Mobile and Web Developer** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about ML. 😉
+I am 24 years old 👨‍💻 **Full-Stack Developer** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about ML. 😉
 
+Working 💼 **@TCS Interactive** as a Software Developer.
 
 🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 

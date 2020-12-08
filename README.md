@@ -76,8 +76,13 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/speakerdeck.svg" />][speakerdeck]-->
 
 
-[<img align="left" alt="Souarvdey777" src="http://img.shields.io/badge/-Portfolio Website-000000?style=flat&logo=🌍&logoColor=white" />][website][<img align="left" alt="Souarvdey777 | Codersrank" src="http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white" />][codersrank][<img align="left" alt="Souarvdey777 | Medium" src="http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" />][medium][<img align="left" alt="Souarvdey777 | Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />][twitter][<img align="left" alt="Souarvdey777 | LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white" />][linkedin][<img align="left" alt="Souarvdey777 | Instagram" src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram][<img align="left" alt="Souarvdey777 | Speakerdeck" src="http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white" />][speakerdeck]
-<br/>
+[![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?style=flat)][website]
+[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
+[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
+[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
+[![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
 
 
 ---

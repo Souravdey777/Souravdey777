@@ -16,7 +16,7 @@ Working 💼 **@TCS Interactive** as a Software Developer.
 
  🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**.
  
- 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My Qwiklabs Public Profile [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
+ 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My Qwiklabs Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
 
  📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  

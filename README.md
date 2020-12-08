@@ -35,7 +35,7 @@ Working 💼 **@TCS Interactive** as a Software Developer.
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -67,13 +67,28 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
+<!--
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/speakerdeck.svg" />][speakerdeck]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/speakerdeck.svg" />][speakerdeck]-->
 
+
+[<img align="left" alt="Souarvdey777" src="http://img.shields.io/badge/-Portfolio Website-000000?style=flat&logo=🌍&logoColor=white" />][website]
+<br>
+[<img align="left" alt="Souarvdey777 | Codersrank" src="http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white" />][codersrank]
+<br/>
+[<img align="left" alt="Souarvdey777 | Medium" src="http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" />][medium]
+<br/>
+[<img align="left" alt="Souarvdey777 | Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />][twitter]
+<br/>
+[<img align="left" alt="Souarvdey777 | LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white" />][linkedin]
+<br/>
+[<img align="left" alt="Souarvdey777 | Instagram" src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram]
+<br>
+[<img align="left" alt="Souarvdey777 | Speakerdeck" src="http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white" />][speakerdeck]
 <br/>
 
 
@@ -82,7 +97,7 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal)](https://medium.com/@Souravdey777)
 
-[Add your blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+Note- [Add your blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 
@@ -92,6 +107,7 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
+[codersrank]: https://profile.codersrank.io/user/souravdey777
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/

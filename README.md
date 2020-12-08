@@ -35,7 +35,7 @@ Working 💼 **@TCS Interactive** as a Software Developer.
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -76,19 +76,7 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/speakerdeck.svg" />][speakerdeck]-->
 
 
-[<img align="left" alt="Souarvdey777" src="http://img.shields.io/badge/-Portfolio Website-000000?style=flat&logo=🌍&logoColor=white" />][website]
-<br>
-[<img align="left" alt="Souarvdey777 | Codersrank" src="http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white" />][codersrank]
-<br/>
-[<img align="left" alt="Souarvdey777 | Medium" src="http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" />][medium]
-<br/>
-[<img align="left" alt="Souarvdey777 | Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />][twitter]
-<br/>
-[<img align="left" alt="Souarvdey777 | LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white" />][linkedin]
-<br/>
-[<img align="left" alt="Souarvdey777 | Instagram" src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram]
-<br>
-[<img align="left" alt="Souarvdey777 | Speakerdeck" src="http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white" />][speakerdeck]
+[<img align="left" alt="Souarvdey777" src="http://img.shields.io/badge/-Portfolio Website-000000?style=flat&logo=🌍&logoColor=white" />][website][<img align="left" alt="Souarvdey777 | Codersrank" src="http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white" />][codersrank][<img align="left" alt="Souarvdey777 | Medium" src="http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white" />][medium][<img align="left" alt="Souarvdey777 | Twitter" src="http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />][twitter][<img align="left" alt="Souarvdey777 | LinkedIn" src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white" />][linkedin][<img align="left" alt="Souarvdey777 | Instagram" src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram][<img align="left" alt="Souarvdey777 | Speakerdeck" src="http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white" />][speakerdeck]
 <br/>
 
 

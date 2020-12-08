@@ -63,6 +63,8 @@ Working 💼 **@TCS Interactive** as a Software Developer.
 
 Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/souravdey777)
 
+<img width="494" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=souravdey777&layout=horizontal&badges=2&show-avatar=true&min-width=494&branding=false&style=--bg-color:%23fff;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:normal;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:14px"/>
+
 ---
 
 

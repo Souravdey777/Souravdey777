@@ -14,7 +14,7 @@ Working 💼 **@TCS Interactive** as a Software Developer.
 
  👨‍💻 I'm currently working on two side projects 👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio)
  
- Completeing Challenges in [**MLH Local Hack Day: Build**](https://localhackday.mlh.io/build) from 10th, Jan 2021 to 17th, Jan 2021
+ Completing Challenges in [**MLH Local Hack Day: Build**](https://localhackday.mlh.io/build) from 10th, Jan 2021 to 17th, Jan 2021
 
  🔭 I’m planning for a Project **🧐 Vision: ML and Cloud-based tech. for Blinds**.
  

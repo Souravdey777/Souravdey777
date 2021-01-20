@@ -83,6 +83,7 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?style=flat)][website]
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 [![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
 [![Product Hunt](http://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat&logo=Product%20Hunt&logoColor=white)][producthunt]
@@ -105,6 +106,7 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 [website]: https://souravdey777.github.io/Portfolio/
+[mail]:mailto:piyush.kolkata@gmail.com
 [twitter]: https://twitter.com/Souravdey777
 [codersrank]: https://profile.codersrank.io/user/souravdey777
 [youtube]: https://youtube.com/

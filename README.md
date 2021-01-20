@@ -81,13 +81,13 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 
 
 [![Portfolio](http://img.shields.io/badge/-Portfolio%20Website-000000?style=flat)][website]
-[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
-[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
+[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
+[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
+[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
 [![Product Hunt](http://img.shields.io/badge/-Product%20Hunt-DA552F?style=flat&logo=Product%20Hunt&logoColor=white)][producthunt]
 [![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 
 ---

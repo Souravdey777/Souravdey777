@@ -96,8 +96,18 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 ---
 ### You can check out my blogs 📢
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=0)](https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2)<br/>
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=0)](https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2) 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=1)](https://medium.com/@Souravdey777/how-i-created-my-covid-19-info-bot-4929ef296680?source=rss-647ce45da107------2)
+
+<p >
+  
+<a href="https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2">
+  <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=0" title="Intro Card" alt="Intro Card">
+  </a>
+  
+<a href="https://medium.com/@Souravdey777/how-i-created-my-covid-19-info-bot-4929ef296680?source=rss-647ce45da107------2">
+  <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=1" title="Intro Card" alt="Intro Card">
+</p>
 
 **Note-** [Add your blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
 

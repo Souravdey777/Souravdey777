@@ -98,10 +98,11 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 <p >
 <a href="https://medium.com/@Souravdey777/how-to-create-a-simple-portfolio-in-github-5465ccf189dc?source=rss-647ce45da107------2">
   <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=0" title="Intro Card" alt="Intro Card">
-  </a>
+</a>
   
 <a href="https://medium.com/@Souravdey777/how-i-created-my-covid-19-info-bot-4929ef296680?source=rss-647ce45da107------2">
   <img src="https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogsByID?username=souravdey777&id=1" title="Intro Card" alt="Intro Card">
+</a>
 </p>
 
 
@@ -113,6 +114,7 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
 **Check the Repositories and don't forget to give a star.** 👇
+
 
 [website]: https://souravdey777.github.io/Portfolio/
 [mail]:mailto:piyush.kolkata@gmail.com

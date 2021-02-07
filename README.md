@@ -104,9 +104,14 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 </a>
 </p>
 
-
-
 **Note-** [Add your Hashnode blogs to your Github profile using my Hashnode Blog Cards](https://github.com/Souravdey777/HashnodeBlogCards)
+
+### You can check out my blogs in Medium 📢
+
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal)](https://medium.com/@Souravdey777)
+
+**Note-** [Add your Medium or Dev blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
+
 
 ---
 
@@ -114,6 +119,9 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
+<!-- 
+Hope you ❤️ the repo. Don't forget to follow. 
+-->
 
 [website]: https://souravdey777.github.io/Portfolio/
 [mail]:mailto:piyush.kolkata@gmail.com

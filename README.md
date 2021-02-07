@@ -120,7 +120,8 @@ Let's connect 👨‍💻 and forge the future together. 😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 <!-- 
-Hope you ❤️ the repo. Don't forget to follow. 
+Want to give some Credit. Simply uncomment the next line
+Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey777) 
 -->
 
 [website]: https://souravdey777.github.io/Portfolio/

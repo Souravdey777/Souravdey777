@@ -7,7 +7,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am 24 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about ML. 😉

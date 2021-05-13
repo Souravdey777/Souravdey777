@@ -136,7 +136,7 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 [codersrank]: https://profile.codersrank.io/user/souravdey777
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[linkedin]: https://www.linkedin.com/in/souravdey777/
 [hashnode]: https://souravdey777.hashnode.dev/
 [medium]: https://medium.com/@Souravdey777
 [producthunt]: https://www.producthunt.com/@souravdey777

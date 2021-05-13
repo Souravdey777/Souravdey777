@@ -130,7 +130,7 @@ Want to give some Credit. Simply uncomment the next line
 Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey777) 
 -->
 
-[website]: https://souravdey777.github.io/Portfolio/
+[website]: https://www.souravdey.space/
 [mail]:mailto:piyush.kolkata@gmail.com
 [twitter]: https://twitter.com/Souravdey777
 [codersrank]: https://profile.codersrank.io/user/souravdey777

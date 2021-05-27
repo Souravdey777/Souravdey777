@@ -98,15 +98,15 @@ Check for a detailed stats here 👉🏻 [**@Sourcerer**](https://sourcerer.io/s
 
 <p >
 <a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=1&large=true&theme=dark" title="Blog" alt="Blog">
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=1&large=false&theme=light" title="Blog" alt="Blog">
 </a>
   
 <a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=2&large=true&theme=dark" title="Blog" alt="Blog">
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=2&large=false&theme=light" title="Blog" alt="Blog">
 </a>
 
 <a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=3&large=true&theme=dark" title="Blog" alt="Blog">
+  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=3&large=false&theme=light" title="Blog" alt="Blog">
 </a>
 </p>
 

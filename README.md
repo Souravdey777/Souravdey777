@@ -10,13 +10,16 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am 24 years old 👨‍💻 **`Full-Stack Developer`** who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills 🧐 and Enthusiast about ML. 😉
+I am  24 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
 
-Working 💼 **`@TCS Interactive`** as a Software Developer.
+Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
 
-🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
- 👨‍💻 I'm currently working on two side projects **SignedIt** and **Testimonials as a Service**
+
+ 🎁 Thanks for checking my profile. I got something for you - ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)
+
+ 👨‍💻 I'm currently working on one side projects - **Testimonials as a Service**
  
  🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio)
 
@@ -28,10 +31,14 @@ Working 💼 **`@TCS Interactive`** as a Software Developer.
  
  👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
 
- 🤔 I’m looking for help with [**Github Blog Cards**](https://github.com/Souravdey777/Github-Cards-External-Blogs)
+ 💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
  
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff. [**Mentor @Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey)
-
+ 👨‍🏫 Need help reach out to me. I am also a [**Mentor @Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey)
+ 
+ ☕ 👇 We can have coffee too 😄
+ 
+ <a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-fd0"> </a>
+ 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -39,7 +46,7 @@ Working 💼 **`@TCS Interactive`** as a Software Developer.
 ---
 
 
-### Tech & Tools Preference
+### Tech & Tools Preference 😎
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">

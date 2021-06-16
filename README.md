@@ -17,7 +17,9 @@ Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
 
- 🎁 Thanks for checking my profile. I got something for you - ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)
+
+
+ 🎁 Thanks for checking my profile. I got something for you -  [**Flexbox-Guide**](https://flexbox-guide.vercel.app/) ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
 
  👨‍💻 I'm currently working on one side projects - **Testimonials as a Service**
  

@@ -27,7 +27,7 @@ Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
  
  🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
 
- 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBook-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a>
+ 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBookJs-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a>
  
  👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
 
@@ -54,12 +54,12 @@ Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
 <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Next.Js-fff?style=flat&logo=next.js&logoColor=000">
+<img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat">
+<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">

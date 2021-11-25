@@ -19,7 +19,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 
 
 
- 🎁 Thanks for checking my profile. I got something for you -  [**Flexbox-Guide**](https://flexbox-guide.vercel.app/) ⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
+ 🎁 Thanks for checking my profile. I got something for you 👉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
 
  👨‍💻 I'm currently working on one side projects - **Testimonials as a Service**
  

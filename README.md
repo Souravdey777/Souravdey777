@@ -12,7 +12,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 I am  24 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
 
-Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
+Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Software Development Engineer II`** | **`Ex-TCS Digital`**
 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
@@ -48,7 +48,7 @@ Working 💼 **`@TCS Interactive`** as a Full-Stack Software Developer.
 ---
 
 
-### Tech & Tools Preference 🎓
+### Tech & Tools Preference 💻
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">

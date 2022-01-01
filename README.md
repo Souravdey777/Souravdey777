@@ -37,7 +37,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
  
  👨‍🏫 Need help! You can reach out to me. I am a [**Mentor @Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey)
  
- ☕ 👇 Let's have coffee together 😄
+ ☕ 👇 Let's have coffee together
  
  <a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
  

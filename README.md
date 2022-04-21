@@ -35,7 +35,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 
  💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
  
- 👨‍🏫 Need help! You can reach out to me. I am a [**Mentor @Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey)
+ 👨‍🏫 Need help! You can reach out to me. I am a Software Development Mentor [**@Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey) & [**@ADPList**][ADPList]
  
  ☕ 👇 Let's have coffee together
  
@@ -150,3 +150,5 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 [medium]: https://medium.com/@Souravdey777
 [producthunt]: https://www.producthunt.com/@souravdey777
 [speakerdeck]: https://speakerdeck.com/Souravdey777
+[ADPList]: https://adplist.org/mentors/sourav-dey
+

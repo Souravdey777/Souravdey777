@@ -101,7 +101,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 [![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
-
+<!-- 
 ---
 ### You can check out my blogs 📢
 
@@ -127,7 +127,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 
 **Note-** [Add your Medium or Dev blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
 
-
+-->
 ---
 
 Let's connect 👨‍💻 and forge the future together. 😁✌ 

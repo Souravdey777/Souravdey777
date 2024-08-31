@@ -10,36 +10,36 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am  26 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
+I am 👨‍💻 `Senior Software Engineer@HackerRank` | `Ex-TCS Digital`,
+Occasionally `Designer` | `Blogger` | `Mentor`
 
-Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Software Development Engineer II`** | **`Ex-TCS Digital`**
+I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a **creative technologist**, I leverage my expertise in software development to **merge technical skills with creative thinking**. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
 
-🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+As of 2024, **GitHub has over 100 million developer accounts**. It's pretty cool that **you've landed on my profile! ✨**
 
+I got something for you 👉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
 
-
-
- 🎁 Thanks for checking my profile. I got something for you 👉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
-
- 👨‍💻 I'm currently working on one side projects - **Testimonials as a Service**
+👨‍💻 I'm currently working on a side project - **PromptMS**
  
- 🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio)
+<!-- 🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio) -->
 
- 🔭 I’m planning to start a project **🧐 Vision: ML and Cloud-based tech. for Blinds**.
+<!-- 🔭 I’m planning to start a project **🧐 Vision: ML and Cloud-based tech. for Blinds**. -->
  
- 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012)
+<!-- 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) -->
 
- 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBookJs-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a>
- 
- 👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
+📚 I’m currently learning <a href="https://www.framer.com/motion/">Framer Motion</a>. One of the best library for web animation with react.
 
- 💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
+<!-- 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBookJs-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a> -->
  
- 👨‍🏫 Need help! You can reach out to me. I am a Software Development Mentor [**@Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey) & [**@ADPList**][ADPList]
+🤝 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777) and FOSS
+
+💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
+
+👨‍🏫 Need help! I am helping developers grow with 1:1 mentorship at [**Topmate**](https://topmate.io/souravdey777)
  
- ☕ 👇 Let's have coffee together
+☕ 👇 Let's have coffee together
  
- <a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
+<a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
  
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
@@ -130,7 +130,8 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 -->
 ---
 
-Let's connect 👨‍💻 and forge the future together. 😁✌ 
+Let's kickstart an engaging conversation and dive into the unique possibilities that have brought us together. Joining forces to shape a better tomorrow through innovation and thoughtful design. 🚀
+
 
 **Check the Repositories and don't forget to give a star.** 👇
 

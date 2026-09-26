@@ -8,7 +8,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 [![Sourav Dey profile views](https://u8views.com/api/v1/github/profiles/25387138/views/day-week-month-total-count.svg)](https://u8views.com/github/Souravdey777)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/github-banner.png?v=2" width="100%" title="Sourav Dey" alt="Sourav Dey, Product Engineer. Founding Engineer at OpenGrowth Ventures. Mentor, designer, blogger based in India.">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/github-banner.png?v=3" width="100%" title="Sourav Dey" alt="Sourav Dey, Product Engineer. Founding Engineer at OpenGrowth Ventures. Mentor, designer, blogger based in India.">
 </p>
 
 I am 👨‍💻 `Senior Software Engineer@HackerRank` | `Ex-TCS Digital`,

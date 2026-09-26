@@ -13,7 +13,7 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 I'm a **product engineer** who thinks like an owner. Code is where I started, but what pulls me in is the whole picture: why a product should exist, how it reaches people, and how the business around it grows.
 
-Right now I'm a **Founding Engineer at [OpenGrowth Ventures](https://www.opengrowth.com)**, building **AlphaStreet** from 0 to 1. It's an AI intelligence layer for the stock market that helps investors screen markets and stocks faster, and with more context, than traditional tools. As the engineering lead, I own the product's technology vision, architecture and engineering execution end to end.
+Right now I'm a **Founding Engineer at [OpenGrowth Ventures](https://www.opengrowth.ventures/)**, building **AlphaStreet** from 0 to 1. It's an AI intelligence layer for the stock market that helps investors screen markets and stocks faster, and with more context, than traditional tools. As the engineering lead, I own the product's technology vision, architecture and engineering execution end to end.
 
 Before that I spent five years at **HackerRank** as a Senior Software Engineer, and I started out at **TCS Digital**. Over 8+ years I've built products used by millions of people.
 

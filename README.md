@@ -18,9 +18,10 @@ Right now I'm a **Founding Engineer at [OpenGrowth Ventures](https://www.opengro
 Before that I spent five years at **HackerRank** as a Senior Software Engineer, and I started out at **TCS Digital**. Over 8+ years I've built products used by millions of people.
 
 **Building on the side**
-- 🎙️ [**techinview.dev**](https://techinview.dev): voice-first AI mock interviews for engineers. The interviewer pushes back, you code live, and you get a scorecard.
-- ✍️ [**hellomirra.com**](https://hellomirra.com): an AI writing companion for creators, in early beta.
-- 🤝 [**Ndorsify**](https://github.com/ndorsify/ndorsify-app): a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
+- 🎙️ [**techinview.dev**](https://techinview.dev) <img src="https://img.shields.io/badge/-Live-2ea44f?style=flat" alt="Live">: voice-first AI mock interviews for engineers. The interviewer pushes back, you code live, and you get a scorecard.
+- ✍️ [**hellomirra.com**](https://hellomirra.com) <img src="https://img.shields.io/badge/-Early%20beta-d4a72c?style=flat" alt="Early beta">: an AI writing companion for creators.
+- 🗂️ [**runboard.dev**](https://runboard.dev) <img src="https://img.shields.io/badge/-Building-6e7781?style=flat" alt="Building">: a desktop kanban board for running and tracking AI coding sessions across projects.
+- 🤝 [**Ndorsify**](https://github.com/ndorsify/ndorsify-app) <img src="https://img.shields.io/badge/-Building-6e7781?style=flat" alt="Building">: a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
 
 **Elsewhere**
 - ✍️ I write about engineering, products and building from zero to one at [**souravdey.space**](https://www.souravdey.space/blogs)

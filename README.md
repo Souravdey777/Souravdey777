@@ -1,16 +1,12 @@
 <!-- 
 Hope you ❤️ the repo. Don't forget to follow. 
 -->
-
-### Hey, I'm Sourav 👋
-
----
-[![Sourav Dey profile views](https://u8views.com/api/v1/github/profiles/25387138/views/day-week-month-total-count.svg)](https://u8views.com/github/Souravdey777)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/github-banner.png?v=3" width="100%" title="Sourav Dey" alt="Sourav Dey, Product Engineer. Founding Engineer at OpenGrowth Ventures. Mentor, designer, blogger based in India.">
 </p>
 
+### Hi, I'm Sourav 👋
+---
 I'm a **product engineer** who thinks like an owner. Code is where I started, but what pulls me in is the whole picture: why a product should exist, how it reaches people, and how the business around it grows.
 
 Right now I'm a **Founding Engineer at [OpenGrowth Ventures](https://www.opengrowth.ventures/)**, building **AlphaStreet** from 0 to 1. It's an AI intelligence layer for the stock market that helps investors screen markets and stocks faster, and with more context, than traditional tools. As the engineering lead, I own the product's technology vision, architecture and engineering execution end to end.

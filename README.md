@@ -35,21 +35,7 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 
 ### What I build with 💻
 
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript">
-<img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/-Express-404040?style=flat&logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass">
-<img src="https://img.shields.io/badge/-GraphQL-E535AB?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript"> <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/-Express-404040?style=flat&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"> <img src="https://img.shields.io/badge/-GraphQL-E535AB?style=flat&logo=graphql&logoColor=white" alt="GraphQL"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase"> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 
 **Also comfortable with** <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-C%20%26%20C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C %26 C++"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 
@@ -57,7 +43,7 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 
 ### GitHub activity 📈
 
-[![GitHub streak](https://streak-stats.demolab.com/?user=Souravdey777&hide_border=true)](https://github.com/Souravdey777)
+[![GitHub streak](https://streak-stats.demolab.com/?user=Souravdey777&hide_border=true&disable_animations=true)](https://github.com/Souravdey777)
 
 ---
 

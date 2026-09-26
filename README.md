@@ -2,7 +2,7 @@
 Hope you ❤️ the repo. Don't forget to follow. 
 -->
 
-### Hey Sourav here 👋
+### Hey, I'm Sourav 👋
 
 ---
 [![Sourav Dey profile views](https://u8views.com/api/v1/github/profiles/25387138/views/day-week-month-total-count.svg)](https://u8views.com/github/Souravdey777)
@@ -11,36 +11,23 @@ Hope you ❤️ the repo. Don't forget to follow.
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/github-banner.png?v=3" width="100%" title="Sourav Dey" alt="Sourav Dey, Product Engineer. Founding Engineer at OpenGrowth Ventures. Mentor, designer, blogger based in India.">
 </p>
 
-I am 👨‍💻 `Senior Software Engineer@HackerRank` | `Ex-TCS Digital`,
-Occasionally `Designer` | `Blogger` | `Mentor`
+I'm a **product engineer** who thinks like an owner. Code is where I started, but what pulls me in is the whole picture: why a product should exist, how it reaches people, and how the business around it grows.
 
-I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a **creative technologist**, I leverage my expertise in software development to **merge technical skills with creative thinking**. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
+Right now I'm a **Founding Engineer at [OpenGrowth Ventures](https://www.opengrowth.com)**, building **AlphaStreet** from 0 to 1. It's an AI intelligence layer for the stock market that helps investors screen markets and stocks faster, and with more context, than traditional tools. As the engineering lead, I own the product's technology vision, architecture and engineering execution end to end.
 
-As of 2024, **GitHub has over 100 million developer accounts**. It's pretty cool that **you've landed on my profile! ✨**
+Before that I spent five years at **HackerRank** as a Senior Software Engineer, and I started out at **TCS Digital**. Over 8+ years I've built products used by millions of people.
 
-I got something for you 👉 [**Flexbox-Guide**](https://flexbox-guide.vercel.app/)⚡ A Guide for the concept of `CSS Flexbox`, `Responsive Design` and Simply `CSS code Generator`. 🎉
+**Building on the side**
+- 🎙️ [**techinview.dev**](https://techinview.dev): voice-first AI mock interviews for engineers. The interviewer pushes back, you code live, and you get a scorecard.
+- ✍️ [**hellomirra.com**](https://hellomirra.com): an AI writing companion for creators, in early beta.
+- 🤝 [**Ndorsify**](https://github.com/ndorsify/ndorsify-app): a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
 
-👨‍💻 I'm currently working on a side project - **PromptMS**
- 
-<!-- 🚧 Potential project that I have plans to work on👨‍⚕️📱[**Doc-Buddy**](https://github.com/Souravdey777/Doc-Buddy) and 📚 🔊 [**Readio**](https://github.com/Souravdey777/Readio) -->
+**Elsewhere**
+- ✍️ I write about engineering, products and building from zero to one at [**souravdey.space**](https://www.souravdey.space/blogs)
+- 🌱 I mentor developers 1:1 on [**Topmate**](https://topmate.io/souravdey777)
+- 💬 Talk to me about product strategy, zero-to-one building, frontend architecture, or growing from engineer into leadership
 
-<!-- 🔭 I’m planning to start a project **🧐 Vision: ML and Cloud-based tech. for Blinds**. -->
- 
-<!-- 🚀 I’m currently learning <img src="http://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">. Checkout My [**Qwiklabs**](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) Public Profile 👉🏻 [![Qwiklabs](http://img.shields.io/badge/Qwiklabs-Sourav%20Dey%20Badges-F5CD0E?style=flat&logo=qwiklabs&logoColor=F5CD0E)](https://www.qwiklabs.com/public_profiles/1d322360-c921-424b-b21d-d5d1d4f9f012) -->
-
-📚 I’m currently learning <a href="https://www.framer.com/motion/">Framer Motion</a>. One of the best library for web animation with react.
-
-<!-- 📚 I want to learn <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-StoryBookJs-ff528c?style=flat"></a> and <a href="https://www.framer.com/motion/"><img src="http://img.shields.io/badge/-Framer Motion-bb00dd?style=flat"/></a> -->
- 
-🤝 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777) and FOSS
-
-💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
-
-👨‍🏫 Need help! I am helping developers grow with 1:1 mentorship at [**Topmate**](https://topmate.io/souravdey777)
- 
-☕ 👇 Let's have coffee together
- 
-<a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
+☕ Let's have coffee together 👉 <a href="https://www.buymeacoffee.com/Souravdey777"><img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"></a>
  
 
 <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
@@ -142,7 +129,7 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 -->
 
 [website]: https://www.souravdey.space/
-[mail]:mailto:piyush.kolkata@gmail.com
+[mail]: mailto:souravdey.space@gmail.com
 [twitter]: https://twitter.com/Souravdey777
 [codersrank]: https://profile.codersrank.io/user/souravdey777
 [youtube]: https://youtube.com/

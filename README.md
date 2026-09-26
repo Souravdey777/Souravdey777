@@ -19,6 +19,12 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 - 🗂️ **runboard.dev** `🚧 Building`: a desktop kanban board for running and tracking AI coding sessions across projects.
 - 🤝 [**Ndorsify**](https://github.com/ndorsify/ndorsify-app) `🚧 Building`: a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
 
+**Elsewhere**
+- ✍️ I write about engineering, products and building from zero to one at [**souravdey.space**](https://www.souravdey.space/blogs)
+- 🌱 I mentor developers 1:1 on [**Topmate**](https://topmate.io/souravdey777)
+- 💬 Talk to me about product strategy, zero-to-one building, frontend architecture, or growing from engineer into leadership
+
+☕ Let's have coffee together 👉 <a href="https://www.buymeacoffee.com/Souravdey777"><img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"></a>
  
 
 
@@ -77,7 +83,7 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 -->
 ---
 
-Always up for a conversation about product strategy, zero-to-one building, or growing from engineer into leadership. I write at [**souravdey.space**](https://www.souravdey.space/blogs), mentor developers 1:1 on [**Topmate**](https://topmate.io/souravdey777), and you can say hi anytime at [souravdey.space@gmail.com](mailto:souravdey.space@gmail.com) or [buy me a coffee](https://www.buymeacoffee.com/Souravdey777). ☕
+Always up for a conversation about products, engineering, or an idea worth building. Say hi at [souravdey.space@gmail.com](mailto:souravdey.space@gmail.com). 🚀
 
 
 <!-- 

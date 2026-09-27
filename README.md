@@ -17,7 +17,7 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 - 🎙️ [**techinview.dev**](https://techinview.dev) `🟢 Live`: voice-first AI mock interviews for engineers. The interviewer pushes back, you code live, and you get a scorecard.
 - ✍️ [**hellomirra.com**](https://hellomirra.com) `🟡 Early beta`: an AI writing companion for creators.
 - 🗂️ **runboard.dev** `🚧 Building`: a desktop kanban board for running and tracking AI coding sessions across projects.
-- 🤝 [**Ndorsify**](https://github.com/ndorsify/ndorsify-app) `🚧 Building`: a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
+- 🤝 [**Ndorsify**](https://ndorsify-app.vercel.app/) `🚧 Building`: a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
 
 **Elsewhere**
 - ✍️ I write about engineering, products and building from zero to one at [**souravdey.space**](https://www.souravdey.space/blogs)

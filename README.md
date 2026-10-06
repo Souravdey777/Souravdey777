@@ -15,8 +15,8 @@ Before that I spent five years at **HackerRank** as a Senior Software Engineer, 
 
 **Building on the side**
 - 🎙️ [**techinview.dev**](https://techinview.dev) `🟢 Live`: voice-first AI mock interviews for engineers. The interviewer pushes back, you code live, and you get a scorecard.
-- ✍️ [**hellomirra.com**](https://hellomirra.com) `🟡 Early beta · launching Jan 12, 2027`: an AI writing companion for creators.
 - ⏳ [**Dayline**](https://dayline.club) `🚀 Launching Nov 17, 2026`: a calm countdown app for the one goal that matters, with a home-screen widget and one gentle nudge a day. Coming to iOS and Android.
+- ✍️ [**hellomirra.com**](https://hellomirra.com) `🟡 Early beta · launching Jan 12, 2027`: an AI writing companion for creators.
 - 🗂️ **runboard.dev** `🚧 Building · launching Feb 9, 2027`: a desktop kanban board for running and tracking AI coding sessions across projects.
 - 🤝 [**Ndorsify**](https://ndorsify-app.vercel.app/) `🚧 Building · launching Mar 9, 2027`: a community platform connecting brands with influencers for endorsements, campaigns and marketing analytics at scale.
 
